@@ -1,0 +1,6 @@
+{
+  "http://testphp.vulnweb.com": [],
+  "http://testphp.vulnweb.com/guestbook.php": [],
+  "http://testphp.vulnweb.com/contact.php": [],
+  "http://testphp.vulnweb.com/AJAX/index.php": []
+}
